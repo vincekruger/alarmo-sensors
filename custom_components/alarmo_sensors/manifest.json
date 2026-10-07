@@ -1,0 +1,7 @@
+{
+  "domain": "alarmo_sensors",
+  "name": "Alarmo Sensors",
+  "version": "1.0.0",
+  "dependencies": ["alarmo"],
+  "codeowners": []
+}
