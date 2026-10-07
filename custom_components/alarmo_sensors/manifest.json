@@ -2,6 +2,12 @@
   "domain": "alarmo_sensors",
   "name": "Alarmo Sensors",
   "version": "1.0.0",
-  "dependencies": ["alarmo"],
-  "codeowners": []
+  "dependencies": [
+    "alarmo"
+  ],
+  "codeowners": [],
+  "config_flow": true,
+  "after_dependencies": [
+    "alarmo"
+  ]
 }

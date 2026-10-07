@@ -1,0 +1,8 @@
+{
+  "title": "Alarmo Sensors",
+  "config": {
+    "abort": {
+      "already_configured": "Alarmo Sensors is already configured."
+    }
+  }
+}
